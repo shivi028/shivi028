@@ -4,11 +4,13 @@
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </div>--->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" alt="Welcome GIF" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" alt="Welcome GIF" width="400"/>
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivi;Frontend+Developer+from+India;Building+Next.js+and+Tailwind+Apps)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&duration=3000&pause=1000&color=4B0082&background=E6E6FA&center=true&vCenter=true&width=900&height=200&lines=Hey+there!+I'm+Shivi;Frontend+Developer+from+India;Building+Next.js+and+Tailwind+Apps;Why+do+programmers+prefer+dark+mode%3F+Because+light+attracts+bugs!" alt="Typing SVG" />
+</p>
 
 
 ## Hey there! 👋 
