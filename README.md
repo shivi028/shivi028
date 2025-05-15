@@ -3,6 +3,11 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </div>--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" alt="Welcome GIF" width="600"/>
+</p>
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivi;Frontend+Developer+from+India;Building+Next.js+and+Tailwind+Apps)
 
 
