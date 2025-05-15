@@ -59,7 +59,8 @@ MERN Stack Developer | Next.js | TypeScript | Redux | MySQL | MongoDB | Firebase
 
 ### 🤝 **Connect with Me:**
 - **LinkedIn:** [Shivi Tiwari](https://linkedin.com/in/shivi-tiwari-7a669b289/)  
-- **Portfolio:** [GitHub Portfolio](https://github.com/shivi028/Portfolio)  
+- **Portfolio:** [GitHub Portfolio](https://github.com/shivi028/Portfolio)
+- **E-Mail:** [tiwarishivi028@gmailcom](tiwarishivi028@gmailcom)  
 
 ---
 
