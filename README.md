@@ -3,10 +3,11 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </div>--->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=30&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Shivi;Frontend+Developer+from+India;Building+Next.js+and+Tailwind+Apps)
 
 ## Hey there! 👋 
 
-I'm **Shivi**, a passionate **Frontend Developer** specializing in building interactive and dynamic web applications using **Next.js** and **Tailwind CSS**.  
+### I'm **Shivi**, a passionate **Frontend Developer** specializing in building interactive and dynamic web applications using **Next.js** and **Tailwind CSS**.  
 MERN Stack Developer | Next.js | TypeScript | Redux | MySQL | MongoDB | Firebase | AWS | IoT  
 
 ---
@@ -48,6 +49,22 @@ MERN Stack Developer | Next.js | TypeScript | Redux | MySQL | MongoDB | Firebase
 ### 📊 **GitHub Stats:**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivi028&show_icons=true&theme=radical)  
 
+![Shivi's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shivi028&theme=react-dark)
+
+
+---
+
+![](https://komarev.com/ghpvc/?username=shivi028&color=blue)
+
+---
+
+### 💻 Tech & Tools Preference:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ---
 
 ### 🤝 **Connect with Me:**
@@ -58,3 +75,9 @@ MERN Stack Developer | Next.js | TypeScript | Redux | MySQL | MongoDB | Firebase
 
 ### 🌱 **A Little About Me:**
 When I'm not coding, you can find me experimenting with new recipes or reading books. 🧩  
+Did you know? I love to code while sipping tea! ☕
+
+---
+
+### Vibe Check:
+![Vibe](https://img.shields.io/badge/Mood-Excited-blue?style=for-the-badge&logo=smile&logoColor=white)
