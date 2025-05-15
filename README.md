@@ -3,7 +3,8 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </div>--->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=30&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Shivi;Frontend+Developer+from+India;Building+Next.js+and+Tailwind+Apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivi;Frontend+Developer+from+India;Building+Next.js+and+Tailwind+Apps)
+
 
 ## Hey there! 👋 
 
@@ -48,8 +49,6 @@ MERN Stack Developer | Next.js | TypeScript | Redux | MySQL | MongoDB | Firebase
 
 ### 📊 **GitHub Stats:**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivi028&show_icons=true&theme=radical)  
-
-![Shivi's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shivi028&theme=radical)
 
 
 ---
