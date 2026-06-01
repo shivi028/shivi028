@@ -57,7 +57,7 @@ const shivi: Developer = {
   currentlyLearning: ["LangChain", "AI Agents", "System Design"],
   openTo:     ["SDE Internships", "Full-Time Roles", "Collaborations"],
 
-  funFact:    "I teach kids on Sundays & build products on weekdays ☕",
+  funFact:    "A developer who can both build products and build communities both",
 };
 ```
 
@@ -68,10 +68,9 @@ const shivi: Developer = {
 - 🏗️ I build **full-stack web applications** with the MERN stack and Next.js  
 - 🤖 Deeply interested in **AI-integrated products** — chatbots, interview prep tools, intelligent APIs  
 - 🏆 Participated in **multiple hackathons**, shipping real products under time pressure  
-- 📢 **Content Lead at GDG** — creating tech content, running sessions, driving community engagement  
-- 🌱 Volunteering every Sunday with **NGO initiatives** to educate underprivileged kids  
+- 📢 **Content Lead at GDG** — creating tech content, driving community engagement  
+- 🌱 Volunteered on Sundays with **NGO initiatives** to educate underprivileged kids  
 - 🎯 Currently targeting **product-based companies** for placement  
-- ☕ Best code is written with chai in hand  
 
 </details>
 
@@ -110,7 +109,6 @@ const shivi: Developer = {
 **🤖 AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **🛠️ Tools & DevOps**
@@ -138,10 +136,10 @@ const shivi: Developer = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🤖 **AI Interview Prep** | AI-powered platform for mock interviews with real-time feedback, question generation, and performance analytics | Next.js · OpenAI · MongoDB · Tailwind | [Repo](#) · [Live](#) |
-| 📦 **Inventory Management System** | Full-stack IMS with role-based access, real-time stock tracking, and analytics dashboard | MERN · JWT · Charts.js | [Repo](#) · [Live](#) |
-| 🌍 **Multilingual Chatbot** | Context-aware chatbot supporting multiple languages using NLP APIs with a clean conversational UI | React · Node.js · NLP API · Express | [Repo](#) · [Live](#) |
-| 🌐 **Web Platform** | Responsive, scalable web platform with authentication, user profiles, and dynamic content | Next.js · MongoDB · Tailwind CSS | [Repo](#) · [Live](#) |
+| 🤖 **AI Interview Prep** | AI-powered platform for mock interviews with real-time feedback, question generation, and performance analytics | Next.js · OpenAI · MongoDB · Tailwind | [Repo](https://github.com/shivi028/Placement-Prep-AI) · [Live](http://placement-prep-ai-git-main-shivi028s-projects.vercel.app/) |
+| 📦 **Autograder** | Full-stack with role-based access, automated the manual answer sheet evaluation.| Python · FastAPI · Tailwind | [Repo](https://github.com/shivi028/Autograder) · [Live](https://autograder-six.vercel.app/) |
+| 🌍 **IIPS Academics** | Centralized academic portal, easy access to study resources | React · Node.js · Tailwind · Express · Supabase | [Repo](https://github.com/shivi028/IIPS_Academics_2.0) · [Live](https://iips-academics-2-0.vercel.app/) |
+
 
 </div>
 
@@ -149,23 +147,6 @@ const shivi: Developer = {
 
 ---
 
-<!-- ═══════════════════════════════════════ -->
-<!--         HACKATHON ACHIEVEMENTS          -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🏆 Hackathons & Achievements
-
-<div align="center">
-
-| Event | Achievement | Project | Year |
-|-------|-------------|---------|------|
-| 🥇 Hackathon 1 | *[Add your result]* | *[Add project name]* | 2024 |
-| 🥈 Hackathon 2 | *[Add your result]* | *[Add project name]* | 2024 |
-| 🏅 Hackathon 3 | *[Add your result]* | *[Add project name]* | 2023 |
-
-</div>
-
-> 💡 **Pro tip:** Replace this table with your real hackathon participations — even participation counts!
 
 ---
 
@@ -240,7 +221,7 @@ const shivi: Developer = {
 | Role | Organization | Impact |
 |------|-------------|--------|
 | 📢 **Content Lead** | Google Developer Groups (GDG) | Creating tech content, organizing sessions, growing developer community |
-| 📚 **Volunteer Educator** | NGO Initiative | Teaching underprivileged kids every Sunday — bridging the digital divide |
+| 📚 **Volunteer Educator** | NGO Initiative | Taught underprivileged kids on Sundays — bridging the digital divide |
 | 🏗️ **Hackathon Builder** | Multiple Events | Shipping real products under 24–48 hour constraints |
 
 </div>
